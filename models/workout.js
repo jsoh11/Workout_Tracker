@@ -9,7 +9,6 @@ const workoutSchema = new Schema({
         trim: true,
         required: "Enter the type of work out"
     },
-
     name: {
         type: String,
         trim: true,
